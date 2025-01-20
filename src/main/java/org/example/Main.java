@@ -6,11 +6,13 @@ public class Main {
             System.out.println(i);
         }
         for (int i = 0; i < 10; i++) {
-            System.out.println("*");
+            System.out.println("111");
         }
         for (int i = 0; i < 10; i++) {
-            System.out.println("(-_-)");
+            System.out.println("222");
         }
-
+        for (int i = 0; i < 10; i++) {
+            System.out.println("333");
+        }
     }
 }
